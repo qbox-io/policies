@@ -11,25 +11,30 @@ We also collect and use generalized, anonymous information about all Users. This
 #### How We Use and Disclose Your Information
 We use or disclose your information solely for the purpose of providing the Qbox Services to you through the operation of the Qbox business or for legal purposes, all according to the following principles:
 
-As you direct or consent: We may share or use your information when you direct us or consent to us sharing or using your information.
-For legal purposes: We may share or use your information (a) to comply with applicable laws, regulations, court orders, legal processes, or to respond to any government or regulatory request, (b) to detect or otherwise manage fraud, security, or technical issues, (c) to protect the safety, rights, or property of any person, the public, or Qbox, or (d) to enforce our rights arising from any contracts entered into between you and us, including the Terms of Use and for billing and collection.
-For external processing: We may share your information with third parties who are necessary for us to provide the Qbox Services and process information on our behalf (for example: to process payments or to ensure compliance with appropriate security and confidentiality measures on our behalf).
-To contact you about goods and services: We may use your information to contact you about Services that may be of interest to you, and to enable us to display or direct communications to you; and
-For business purposes: We may disclose your information (a) to our current or future parents, affiliates, subsidiaries, and other companies under common control and ownership, or (b) to a buyer or other successor in connection with, or during negotiations, a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Qbox’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding.
+- *As you direct or consent:* We may share or use your information when you direct us or consent to us sharing or using your information.
+
+- *For legal purposes:* We may share or use your information (a) to comply with applicable laws, regulations, court orders, legal processes, or to respond to any government or regulatory request, (b) to detect or otherwise manage fraud, security, or technical issues, (c) to protect the safety, rights, or property of any person, the public, or Qbox, or (d) to enforce our rights arising from any contracts entered into between you and us, including the Terms of Use and for billing and collection.
+
+- *For external processing:* We may share your information with third parties who are necessary for us to provide the Qbox Services and process information on our behalf (for example: to process payments or to ensure compliance with appropriate security and confidentiality measures on our behalf).
+
+- *To contact you about goods and services:* We may use your information to contact you about Services that may be of interest to you, and to enable us to display or direct communications to you; and
+
+- *For business purposes:* We may disclose your information (a) to our current or future parents, affiliates, subsidiaries, and other companies under common control and ownership, or (b) to a buyer or other successor in connection with, or during negotiations, a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Qbox’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding.
+
 We may use generalized, anonymous information for any purpose and disclose it to third parties in our sole discretion.
 
 #### Your California Privacy Rights
-If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third-parties, what categories of personal information we have shared with third-parties in the preceding year, as well as the names and addresses of those third-parties, please e-mail us at: [support@qbox.io](support@qbox.io); or send us mail to:
+If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third-parties, what categories of personal information we have shared with third-parties in the preceding year, as well as the names and addresses of those third-parties, please e-mail us at [support@qbox.io](support@qbox.io); or send us mail to:
 
 Qbox  
-1722 N. College Ave, Suite C-209  
-Fayettevile, AR 72703
+320 N. Rollston Ave, Suite 102  
+Fayetteville, AR 72701
 
-Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at: [support@qbox.io](support@qbox.io); or send us mail to:
+Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at [support@qbox.io](support@qbox.io); or send us mail to:
 
 Qbox  
-1722 N. College Ave, Suite C-209  
-Fayettevile, AR 72703
+320 N. Rollston Ave, Suite 102  
+Fayetteville, AR 72701
 
 Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.
 
