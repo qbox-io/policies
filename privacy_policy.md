@@ -24,13 +24,13 @@ We use or disclose your information solely for the purpose of providing the Qbox
 We may use generalized, anonymous information for any purpose and disclose it to third parties in our sole discretion.
 
 #### Your California Privacy Rights
-If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third-parties, what categories of personal information we have shared with third-parties in the preceding year, as well as the names and addresses of those third-parties, please e-mail us at [support@qbox.io](support@qbox.io); or send us mail to:
+If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third-parties, what categories of personal information we have shared with third-parties in the preceding year, as well as the names and addresses of those third-parties, please e-mail us at [support@qbox.io](mailto:support@qbox.io); or send us mail to:
 
 Qbox  
 320 N. Rollston Ave, Suite 102  
 Fayetteville, AR 72701
 
-Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at [support@qbox.io](support@qbox.io); or send us mail to:
+Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please e-mail us at [support@qbox.io](mailto:support@qbox.io); or send us mail to:
 
 Qbox  
 320 N. Rollston Ave, Suite 102  
