@@ -5,7 +5,7 @@ These Terms of Service (the “Terms”) explain the agreement you (collectively
 You are exclusively responsible for your use of the Qbox Services and for any consequences that are related to your use of the Services, unless otherwise set out in these Terms. By using the Services, you agree that Qbox will not be responsible or liable to you or any third party for any consequence, loss, or damage arising (directly or indirectly) from or relating to the Services. Any exceptions to this policy will be clearly explained in these Terms. If you do not see a specific exception listed in these Terms, then it is not an exception, and you are exclusively responsible and liable for the matter in question.
 
 #### 2. Privacy Policy
-By using the Services, you agree to be bound by the [Privacy Policy](https://github.com/qbox-io/policies/blob/master/privacy-policy.md).
+By using the Services, you agree to be bound by the [Privacy Policy](https://github.com/qbox-io/policies/blob/master/privacy_policy.md).
 
 #### 3. User Requirements
 You must be able to form a legally binding contract to use the Qbox Services. By using the Qbox Services, you represent that you are able to do so. If you are under 18 years old, your parent or guardian must enter into this Agreement on your behalf. That parent or guardian will be responsible for your use of the Qbox Services, including financial responsibility. Persons under 13 years old are expressly prohibited from using the Qbox Services. If Qbox receives credible notice that a User is under 13 years old, we will automatically remove the account associated with the User and delete all information about and from that User from the Services.
@@ -70,7 +70,7 @@ Does not infringe or violate the intellectual property or proprietary rights of 
 
 - Does not include any personal identification, financial, or confidential information of any other person or entity without prior consent; and
 
-- Does not breach any of the terms or conditions of these Terms or the [Privacy Policy](https://github.com/qbox-io/policies/blob/master/privacy-policy.md).
+- Does not breach any of the terms or conditions of these Terms or the [Privacy Policy](https://github.com/qbox-io/policies/blob/master/privacy_policy.md).
 
 Qbox reserves the exclusive right to determine whether your use of the Qbox Services or information you post or make available on the Qbox Services falls within any of the prohibited categories listed above. We may immediately terminate or suspend your Account without notice to you in the event that, in our discretion, you violate this section. Accounts created to replace suspended accounts will be permanently suspended. Accounts engaging in any of these behaviors may be investigated for abuse.
 
@@ -213,4 +213,4 @@ These Terms, together with the Privacy Policy and SLA, are the entire and exclus
 
 We may revise these Terms from time to time without notice to you. The most current version will always be at the following: https://qbox.io/terms. In our sole discretion, we may also choose to notify you by e-mail. By continuing to use the Services after revisions are effective, you acknowledge and agree that you will be bound by the revised Terms.
 
-These Qbox Services are operated and provided by Qbox, Inc., a Delaware corporation. If you have any questions about the Terms, please contact us at [contact@Qbox.com](contact@Qbox.com).
+These Qbox Services are operated and provided by Qbox, Inc., a Delaware corporation. If you have any questions about the Terms, please contact us at [contact@qbox.com](mailto:contact@qbox.com).

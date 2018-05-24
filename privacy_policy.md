@@ -115,11 +115,11 @@ You have the right to withdraw consent where such consent is required to share o
 
 *Data Portability*
 
-If we collect data regarding persons in the European Economic Area that is required by law to be eligible for data portability and you would like us to transmit your Personal Data to another company providing similar services, we will work with them to do so upon request and verification of such request with both the requestor and the company receiving the Personal Data.  
+If we collect data regarding persons in the European Economic Area that is required by law to be eligible for data portability and you would like us to transmit your Personal Data to another company providing similar services, we will work with them to do so upon request and verification of such request with both the requestor and the company receiving the Personal Data.
 
 *Data Retention*
 
-We take steps to delete Personal Data that is no longer necessary in relation to provide the Services. We delete End User data within one year of customer terminating their account. We may be required by law, to retain data to exercise or defend legal claims, or to comply with contractual obligations with our customers to retain some information in connection with our obligation to provide the Services.  
+We take steps to delete Personal Data that is no longer necessary in relation to provide the Services. We delete End User data within one year of customer terminating their account. We may be required by law, to retain data to exercise or defend legal claims, or to comply with contractual obligations with our customers to retain some information in connection with our obligation to provide the Services.
 
 ### Processing End User Data for Customers
 
@@ -141,7 +141,7 @@ Phone: 512-772-2535
 
 ### Third-Party Websites
 
-We may link to other websites. When you click on one of these links, you are ‘clicking’ to another website. Qbox does not control the data collection or privacy practices of such third- party sites. We encourage you to read the privacy policies of any third party sites because their collection, use, and storage practices and policies may differ from ours. 
+We may link to other websites. When you click on one of these links, you are ‘clicking’ to another website. Qbox does not control the data collection or privacy practices of such third- party sites. We encourage you to read the privacy policies of any third party sites because their collection, use, and storage practices and policies may differ from ours.
 
 ### Minors Under 16 Years of Age
 
