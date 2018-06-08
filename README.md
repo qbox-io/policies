@@ -4,4 +4,5 @@ Welcome to the Qbox policy repository. Here you will find the various terms and 
 
 [Privacy Policy](https://github.com/qbox-io/policies/blob/master/privacy_policy.md)  
 [Terms of Service](https://github.com/qbox-io/policies/blob/master/terms_of_service.md)  
-[GDPR Policy](https://github.com/qbox-io/policies/blob/master/gdpr_policy.md)
+[GDPR Policy](https://github.com/qbox-io/policies/blob/master/gdpr_policy.md)  
+[Trust and Compliance Documentation](https://docs.google.com/spreadsheets/d/1TcRs_KmCKUTccvo8kxRy3BMZURcnAnQeCefo0cjkGV0/edit?usp=sharing)
